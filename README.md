@@ -1,4 +1,4 @@
-### Imooc Java High Concurrency Seckill Online Shopping System([Course](http://www.imooc.com/learn/587))
+### Imooc Java High Concurrency Seckill Online Shopping System
 -  Spring,SpringMVC,Mybatis,Maven,Bootstrap,jQuery,Mysql,Restful API.
 -  Use Redis the improve the performance.
 
